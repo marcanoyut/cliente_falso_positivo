@@ -11,3 +11,7 @@ Un **falso positivo** ocurre cuando el sistema marca una transacción legítima 
 * **Optimización de Reglas:** Ajustar la sensibilidad de los algoritmos de detección para equilibrar la seguridad sin frenar las ventas.
 * **Detección por Canal:** Identificar qué tiendas o pasarelas de pago generan alertas erróneas.
 * **Maximización de KPIs:** Reducir costos operacionales de revisión y aumentar el porcentaje de aprobadas directas.
+## 📂 Acceso al Código y Datos
+* 📄 **[Ver Notebook con el Análisis Completo (Jupyter)](cliente.ipynb)**
+* 📊 **[Ver Base de Datos Consolidada (CSV)](ventas_consolidadas.csv)**
+* 📉 **[Ver Dashboard Interactivo (Looker/PowerBI)](https://tu-link.com)**
